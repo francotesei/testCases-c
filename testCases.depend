@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1465064210 source:/home/ftesei/Documentos/codebloksProjects/testCases/main.c
+	<stdio.h>
+	<stdlib.h>
+	"testCases.h"
+
+1465064855 /home/ftesei/Documentos/codebloksProjects/testCases/testCases.h
+	<stdio.h>
+	<stdlib.h>
+
+1465062734 /home/ftesei/Documentos/codebloksProjects/testCases/testCasePila.c
+	"testCases.h"
+
+1465063505 source:/home/ftesei/Documentos/codebloksProjects/testCases/testCasePila.c
+	<stdio.h>
+	<stdlib.h>
+	"testCases.h"
+
+1465863074 source:/home/ftesei/Documents/testCases/main.c
+	<stdio.h>
+	<stdlib.h>
+	"testCases.h"
+
+1465864359 /home/ftesei/Documents/testCases/testCases.h
+	<stdio.h>
+	<stdlib.h>
+
+1465859282 source:/home/ftesei/Documents/testCases/config.c
+	<stdio.h>
+	<stdlib.h>
+	"testCases.h"
+
+1465859160 source:/home/ftesei/Documents/testCases/tsce_cola.c
+	<stdio.h>
+	<stdlib.h>
+	"testCases.h"
+
+1465863050 source:/home/ftesei/Documents/testCases/tsce_pila.c
+	<stdio.h>
+	<stdlib.h>
+	"testCases.h"
+
